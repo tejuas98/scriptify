@@ -31,3 +31,4 @@ Scriptify is an **offline-first AI tool** that breaks language barriers instantl
 This is my first change
 // edited by Karan
 // added new feature by Karan
+// Karan feature update
